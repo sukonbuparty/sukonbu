@@ -1,0 +1,27 @@
+baseURL = 'https://sukonbu.party/'
+languageCode = 'en-us'
+title = 'Sukonbu'
+theme = 'hugo-bearcub'
+themeStyle = "original"
+author = 'Sukonbu'
+copyright = 'Sukonbu © 2025'
+enableRobotsTXT = true
+generateSocialCard = true
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+sectionPagesMenu = 'main'
+[markup]
+  [markup.highlight]
+    lineNos = true
+    lineNumbersInTable = false
+	noClasses = false
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
+[params]
+description = 'Welcome to Sukonbu.party'
+favicon = "images/favicon.png"
+dateFormat = "2006-01-02"
+[params.author]
+	email = "admin@sukonbu.party"
+	name = "Sukonbu"
