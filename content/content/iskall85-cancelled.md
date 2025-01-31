@@ -20,3 +20,5 @@ In the video, Iskall85 claims that the allegations were released to the Hermitcr
 Before this video was released, other videos about this topic had been released, such as [The Unexpected Downfall of Iskall85](https://www.youtube.com/watch?v=oim_qQydDJs) by Parallax
 
 So far there hasn't been any response from any other Hermitcraft SMP members including [xisumavoid](https://www.youtube.com/@xisumavoid) who is the leader of Hermitcraft SMP.
+
+{{< youtube MmQmAwq2FVQ >}}
