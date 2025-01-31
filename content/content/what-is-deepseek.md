@@ -11,7 +11,7 @@ Deepseek-R1 is a brand new model that is able to reason, meaning instead of doin
 
 The only other model that was capable of achieving this with reasonable accuracy was OpenAI's gpt4-o model, which, unlike Deepseek-R1, is closed-source.
 
-After the model was released, Deepseek released a substential amount papers about the model, explaining how they were able to achieve this success with their model. OpenAI however, claims that Deepseek used output from their gpt4-o model in order to create their cold start data. At the time of writing this there hasn't been a official announcement about these claims yet but Deepseek claims that the cold start data they used came from their old model Deepseek V2
+After the model was released, Deepseek released a substential amount of papers about the model, explaining how they were able to achieve this success with their model. OpenAI however, claims that Deepseek used output from their gpt4-o model in order to create their cold start data. At the time of writing this there hasn't been an official announcement about these claims yet but Deepseek claims that the cold start data they used came from their old model Deepseek V2
 
 Deepseek has released multiple lower parameter versions of their model including 1.5B, 7B and 8B parameter models. This allows users who don't have dedicated hardware or memory to run bigger models such as Meta's Llama to run Deepseek-R1 with great performance albeit at a reduced accuracy.
 
