@@ -22,6 +22,7 @@ sectionPagesMenu = 'main'
 description = 'Welcome to Sukonbu.party'
 favicon = "images/favicon.png"
 dateFormat = "2006-01-02"
+timeZone = "UTC"
 [params.author]
 	email = "admin@sukonbu.party"
 	name = "Sukonbu"
