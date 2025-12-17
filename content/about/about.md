@@ -1,6 +1,5 @@
 +++
 title = "About"
-menu = "main"
 weight = 3
 date = '2025-12-17'
 +++
