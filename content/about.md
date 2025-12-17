@@ -1,5 +1,7 @@
 +++
 title = "About"
+menu = "main"
+slug = 'about'
 weight = 3
 date = '2025-12-17'
 +++

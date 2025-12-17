@@ -9,7 +9,7 @@ enableRobotsTXT = true
 generateSocialCard = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
-# sectionPagesMenu = 'main' //enables auto generation of menu entries!!!
+sectionPagesMenu = 'main'
 [markup]
   [markup.highlight]
     lineNos = true
@@ -26,16 +26,3 @@ timeZone = "UTC"
 [params.author]
 	email = "admin@sukonbu.party"
 	name = "Sukonbu"
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
-    weight = 2
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
