@@ -16,8 +16,8 @@ ignoreErrors = ["error-disable-taxonomy"]
     lineNumbersInTable = false
 	noClasses = false
 [permalinks]
-  blog = "/:slug/"
-  tags = "/blog/:slug"
+  posts = "/:slug/"
+  tags = "/posts/:slug"
 [params]
 description = 'Welcome to Sukonbu.party'
 favicon = "images/favicon.png"
@@ -32,8 +32,8 @@ timeZone = "UTC"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Content"
-    url = "/content/"
+    name = "Posts"
+    url = "/posts/"
     weight = 2
   [[menu.main]]
     name = "About"
