@@ -1,6 +1,6 @@
 +++
 date = '2025-04-12T18:51:58+03:00'
-draft = false
+draft = true
 menus = 'content'
 title = 'How Sukonbu Content Gets Made'
 +++
