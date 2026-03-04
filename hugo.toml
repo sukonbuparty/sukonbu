@@ -1,4 +1,4 @@
-baseURL = 'https://sukonbu.party/'
+baseURL = 'https://blog.sukonbu.party/'
 languageCode = 'en-us'
 title = 'Sukonbu'
 theme = 'hugo-bearcub'
