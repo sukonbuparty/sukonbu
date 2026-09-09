@@ -1,0 +1,18 @@
++++
+date = '2026-09-09T23:51:07+0300'
+draft = false
+menus = 'content'
+title = 'Local Businesses Deserve to Die'
++++
+
+I'm testing out using Obsidian to help me with writing these blog posts, so this will be me explaining a small opinion that has formed inside of me after I've been assigned to an university in the middle of nowhere.
+
+Last year (2025), starting from around 7th of September I was a student in a university that was around 15 hours away from the city that I live in. For me, this is not a problem as I don't really care about where I go because I rarely go outside myself. As long as I have my internet connection, my computer, some food and some water I'll often be able to tough it out since most of the work I do is over my computer anyway.
+
+When I went in there, there were only two "well known" fast food branches located near my dorms, one of them was I think Pizza Hut and other was Dominos. There were also a bunch of other local businesses located around that would sell some common food like the infamous Döner.
+
+The city I went to was so low in population, I think if you added up all the students from all the dormitories it would equal to almost a quarter of all the locals there. Because of this, a lot of the attractions there was focused on getting us, the university students to spend their money on. While this is great for new businesses opening, the existing businesses and student related buildings had a other story, they would often suck, act hostile against students, food businesses would often cancel orders when ordered through food delivery apps and when called on phone would not deliver to the dorms because it's too far or charge additional fees. The bus operations there was also managed by a single family that were the owners of the village that the university resided in (our university was 2 hours walking distance to the main city where our dorms were at!) so as you may guessed they were more interested in serving their own villagers travel instead of helping the students (who are all paying customers by the way) reach their university in time. When arriving at the university, they would drop us on the entrance not even entering the campus building at all. This has came to such a degree that we would have to walk 3-4 bus stops up just to find a bus that had some space to ride in, not even to sit just to be able to go to our University. This became really troublesome during finals week because they would reduce the amount of active busses on the line because of less students using them and because our finals were spread out to two weeks.
+
+Coming back to my point, I do not have a single drop of empathy for the people who have caused me and my student friends this much trouble. Since then I was able to transfer to a new University that is around 3 hours distance to my City. When I left there, there was a new Dominos building and a brand new Burger King opening there that would actually deliver the food and don't treat you like you're a scumbag. As time goes, I will probably hear from my friends there that the local businesses slowly get shut down, get replaced by these corporations and I deeply wish that when the self driving technology arrives it will have the same effect on the public transportation system where you had to buy three different bus cards just to get around because the villagers held the city hostage. 
+
+I hope karma will find everyone who has caused this. I have done all I could and I've reported to every place I could. The takeaway here is that if you are reading this don't be an asshole. And to all the local businesses I'm sorry but my trust on you even if you are a legit business has went down significantly.
