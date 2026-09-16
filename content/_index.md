@@ -9,6 +9,8 @@ This is my personal blog where I share thoughts on all kinds of topics.
 
 You can find my latest content in the [Posts](/posts/) section. 
 
+You can also check out my short personal thoughts under [Personal](/personal/).
+
 Have something to say? [Contact me](/about/) anytime.
 
 [Subscribe to my RSS feed](/index.xml) to stay updated with the latest content.
