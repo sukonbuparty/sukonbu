@@ -2,7 +2,7 @@
 title = "About"
 menu = "main"
 slug = 'about'
-weight = 3
+weight = 4
 date = '2025-12-17'
 +++
 

@@ -4,7 +4,7 @@ slug = 'privacy'
 draft = false
 title = 'Privacy'
 menus = 'main'
-weight = 4
+weight = 5
 +++
 
 # Privacy Policy
